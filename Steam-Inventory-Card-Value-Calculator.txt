@@ -3,7 +3,7 @@
 // @namespace    https://steamcommunity.com/
 // @version      1.0
 // @description  计算库存卡牌总价值
-// @author       You
+// @author       Zero
 // @match        https://steamcommunity.com/id/*/inventory*
 // @match        https://steamcommunity.com/profiles/*/inventory*
 // @grant        GM_xmlhttpRequest
